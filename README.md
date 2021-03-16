@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Xin Chào, Tôi là Hoài Thương <a href="https://www.facebook.com/profile.php?id=100040579411413"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1>
+<h3 align="center">Fresher Developer <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="25px"> in :flag-vn:VIỆT NAM:flag-vn:</h3>
 
 <!--
 **phamdao0220/phamdao0220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
